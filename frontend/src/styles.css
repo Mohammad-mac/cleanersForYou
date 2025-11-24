@@ -1,0 +1,10 @@
+/* Minimal styles for the boilerplate */
+body {
+  margin: 0;
+  background: #f8fafc;
+  color: #0f172a;
+}
+
+h1 {
+  font-size: 1.5rem;
+}
