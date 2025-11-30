@@ -7,6 +7,7 @@
 
 <script setup lang="ts">
 // Using script setup (Composition API)
+import HelloWorld from './components/HelloWorld.vue'
 </script>
 
 <style scoped>
